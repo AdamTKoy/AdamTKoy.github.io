@@ -7,3 +7,8 @@ server_client_networking_lab
 - client.c
 - server.c
 - utils.c
+
+synchronization_and_threading lab
+- barrier.c
+- queue.c
+- semamore.c
