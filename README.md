@@ -4,12 +4,12 @@ C Projects - Coding projects completed for CS 341: System Programming at the Uni
 
 Please note: the files listed below were partially or entirely written by me. All other files included in a given project were provided as starter code.
 
-> files_mmap_fseek_fread
+files_mmap_fseek_fread
 	- file(s) written/modified: lookup1.c, lookup2.c
 	- demonstrates understanding of:
 		- working with file functions including mmap, fseek, fread
 
-> memory_management
+memory_management
 	- file(s) written/modified: alloc.c
 	- demonstrates understanding of:
 		- memory allocation
