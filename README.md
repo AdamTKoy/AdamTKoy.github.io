@@ -1,6 +1,6 @@
 # AdamTKoy.github.io
 
-[Link to another page](./C_Projects.html).
+[Link to another page](./C_Projects.md).
 
 # C Projects
 > Coding projects completed for CS 341: System Programming at the University of Illinois Urbana Champaign
