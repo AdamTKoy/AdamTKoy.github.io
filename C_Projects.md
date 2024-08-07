@@ -1,3 +1,11 @@
+---
+layout: default
+---
+
+## Welcome to another page
+
+_yay_
+
 # C Projects
 > Coding projects completed for CS 341: System Programming at the University of Illinois Urbana Champaign
 >
@@ -145,6 +153,8 @@ demonstrates understanding of:
 ## virtual_memory
 file(s) written/modified:
 * mmu.c
+
+[back](./)
 
 demonstrates understanding of:
 * working with virtual memory (including page tables)
