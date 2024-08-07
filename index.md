@@ -2,11 +2,13 @@
 layout: default
 ---
 
-### Language: C
-[Link to another page](./c-projects.html).
+### Language: 
+[C](./c-projects.html).
 
-### Language: C++
-> link pending
+> link pending: C++
 
-### Language: R
-> link pending
+> link pending: Python (?)
+
+> link pending: R
+
+> link pending: Swift (?)
