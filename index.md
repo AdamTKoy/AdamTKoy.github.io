@@ -11,8 +11,6 @@ layout: default
 
 > link pending: R
 
-[STAT 428 Exam 1](https://github.com/AdamTKoy/r-projects/exam1.html)
-
 [STAT 428 Exam 1](https://html-preview.github.io/?url=https://github.com/AdamTKoy/r-projects/blob/main/exam1.html)
 
 > link pending: Swift (?)
