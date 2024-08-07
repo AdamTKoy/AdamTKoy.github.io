@@ -10,7 +10,8 @@ layout: default
 > link pending: Python (?)
 
 > link pending: R
-[STAT 428 Exam 1](https://github.com/AdamTKoy/r-projects)
+
+[STAT 428 Exam 1](https://github.com/AdamTKoy/r-projects/exam1.html)
 
 
 > link pending: Swift (?)
