@@ -10,7 +10,7 @@ layout: default
 > link pending: Python (?)
 
 > link pending: R
-[STAT 428 Exam 1](./r-projects/exam1.html)
+[STAT 428 Exam 1](../r-projects/exam1.html)
 
 [STAT 428 Exam 1](r-projects/exam1.html)
 
