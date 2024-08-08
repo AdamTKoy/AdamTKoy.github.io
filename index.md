@@ -6,4 +6,4 @@ layout: default
 
 [GitHub](https://adamtkoy.github.io/)
 
-[Resume](./resume.pdf)
+[Resume](./tkoy_resume_2024.pdf)
