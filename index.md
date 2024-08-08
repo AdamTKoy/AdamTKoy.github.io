@@ -2,17 +2,8 @@
 layout: default
 ---
 
-### Language: 
-[C](./c-projects.html)
+[LinkedIn]([linkedin.com](https://www.linkedin.com/in/adam-tkoy/))
 
-> link pending: C++
+[GitHub](https://adamtkoy.github.io/)
 
-> link pending: Python (?)
-
-> link pending: R
-
-STAT 428: Statistical Computing
-
-[Exam 1](https://html-preview.github.io/?url=https://github.com/AdamTKoy/r-projects/blob/main/exam1.html)
-
-> link pending: Swift (?)
+[Resume](./resume.pdf)
