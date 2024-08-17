@@ -15,7 +15,7 @@ layout: default
 [Diet Preference Website in Javascript](https://github.com/AdamTKoy/diet-preference-website)
 
 
-## Projects in Statistics
+## Other Statistical Projects in R
 
 - [Random Sampling and Monte Carlo Estimation](https://htmlpreview.github.io/?https://github.com/AdamTKoy/AdamTKoy.github.io/blob/master/Statistical-Projects-in-R/RandomSampling_MonteCarlo.html)
 
