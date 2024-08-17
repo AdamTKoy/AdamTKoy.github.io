@@ -8,4 +8,6 @@ layout: default
 
 [Coding Projects in C](https://github.com/AdamTKoy/c-projects)
 
-> todo: link to page for coding projects in R, where that page has links to separate html pages for each project
+Statistical Projects
+[Random Variables and Monte Carlo Estimation](./Statistical-Projects-in-R/RandomSampling_MonteCarlo.html)
+
