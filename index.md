@@ -9,5 +9,4 @@ layout: default
 [Coding Projects in C](https://github.com/AdamTKoy/c-projects)
 
 Statistical Projects
-[Random Variables and Monte Carlo Estimation](./Statistical-Projects-in-R/RandomSampling_MonteCarlo.html)
-
+[Random Variables and Monte Carlo Estimation](https://htmlpreview.github.io/?https://github.com/AdamTKoy/AdamTKoy.github.io/blob/master/Statistical-Projects-in-R/RandomSampling_MonteCarlo.html)
