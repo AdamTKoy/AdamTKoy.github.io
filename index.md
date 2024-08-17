@@ -2,9 +2,9 @@
 layout: default
 ---
 
-[LinkedIn]([linkedin.com](https://www.linkedin.com/in/adam-tkoy/))
+[LinkedIn](https://www.linkedin.com/in/adam-tkoy/)
 
-[Resume](tkoy_resume_2024.pdf)
+[Resume](TKoy_Resume_Aug2024.pdf)
 
 [Coding Projects in C](https://github.com/AdamTKoy/c-projects)
 
