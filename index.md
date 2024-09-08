@@ -6,7 +6,7 @@ layout: default
 
 [LinkedIn](https://www.linkedin.com/in/adam-tkoy/)
 
-[Resume](TKoy_Resume_Sept2024.pdf)
+[Resume](TKoy_Resume_Sept24.pdf)
 
 ## Coding Repositories
 
