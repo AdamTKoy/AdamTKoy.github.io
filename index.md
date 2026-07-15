@@ -6,8 +6,6 @@ layout: default
 
 [LinkedIn](https://www.linkedin.com/in/adam-tkoy/)
 
-[Resume](TKoy_Resume.pdf)
-
 ## Coding Repositories
 
 [Coding Projects in C](https://github.com/AdamTKoy/c-projects)
